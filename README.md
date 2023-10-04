@@ -5,7 +5,8 @@
 4. Seleccione en la primera casilla avanzado
 5. Dirijase a grabacion y haga los siguientes cambios:
 A) Cambie el formato a MP4
-B) Dependiendo de su conexion a internet decida los kpbs
+B) Dependiendo de su conexion a internet decida los kbs que quiera su grabacion
+C) 
 
 
 
