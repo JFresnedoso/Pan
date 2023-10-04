@@ -10,6 +10,6 @@ C) Elija si quiere que la grabacion se encargue el procesador o su tarjeta grafi
 asdasdads
 
 
-
+adasd
 Vaya al Audio y elija cuantas pistas de audio quiere al momento de comenzar una grabacion 
   
