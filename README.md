@@ -7,7 +7,7 @@
 A) Cambie el formato a MP4
 B) Dependiendo de su conexion a internet decida los kpbs
 C) Elija si quiere que la grabacion se encargue el procesador o su tarjeta grafica
-
+asdasdads
 
 
 
